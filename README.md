@@ -1,7 +1,7 @@
 
 # 🎓 Student Score Analysis Project
 
-This project performs data cleaning, exploratory data analysis, and visual insights on student academic performance. It was created to demonstrate my ability to manipulate, analyze, and visualize real-world datasets using Python.
+This project performs data cleaning, exploratory data analysis, and visual insights on student academic performance. It was created to demonstrate my ability to manipulate, analyze, and visualize real-world datasets using R.
 
 ---
 
