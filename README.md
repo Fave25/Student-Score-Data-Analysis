@@ -17,7 +17,7 @@ This project performs data cleaning, exploratory data analysis, and visual insig
 
 | Tool               | Purpose                                |
 |--------------------|----------------------------------------|
-| **Python 3.8+**     | Programming language                   |
+| **R**     | Programming language                   |
 | **Pandas**          | Data manipulation & cleaning           |
 | **Matplotlib**      | Visualization                          |
 | **Seaborn**         | Advanced statistical plots             |
